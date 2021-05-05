@@ -1,2 +1,2 @@
 # OpenIoT
-Source codes used for building open-source iot system for ashallow  geothermal  energy  system.
+Source codes used for building open-source iot system for a shallow  geothermal  energy  system.
